@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "セカイ",
+  "base_artist": "星乃一歌、天馬司、宵崎奏、初音ミク",
+  "createdAt": "2025-12-26T10:56:15.047268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イロトリドリ ノ セカイ",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/01_イロトリドリ_ノ_セカイ_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セカイ",
+      "artist": "初音ミク、星乃一歌、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/02_セカイ_初音ミク、星乃一歌、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セカイ (feat. 星乃一歌&天馬司&宵崎奏&初音ミク)",
+      "artist": "初音ミク、星乃一歌、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/03_セカイ_(feat._星乃一歌&天馬司&宵崎奏&初音ミク)_初音ミク、星乃一歌、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イロトリドリ ノ セカイ",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/04_イロトリドリ_ノ_セカイ_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サクラ アマネク セカイ",
+      "artist": "yozuca*",
+      "has_synced": false,
+      "path": "select/05_サクラ_アマネク_セカイ_yozuca.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イロトリドリノ セカイ (Backing Track)",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/06_イロトリドリノ_セカイ_(Backing_Track)_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セカイ",
+      "artist": "DECO*27, 堀江晶太(kemu)",
+      "has_synced": true,
+      "path": "select/07_セカイ_DECO_27,_堀江晶太(kemu).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "セカイ",
+      "artist": "Vov",
+      "has_synced": false,
+      "path": "select/08_セカイ_Vov.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "セカイ",
+      "artist": "初音ミク, 星乃一歌, Tenma Tsukasa 및 宵崎奏",
+      "has_synced": true,
+      "path": "select/09_セカイ_初音ミク,_星乃一歌,_Tenma_Tsukasa_및_宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "セカイ",
+      "artist": "初音ミク, 星乃一歌, 天馬司, 宵崎奏",
+      "has_synced": false,
+      "path": "select/10_セカイ_初音ミク,_星乃一歌,_天馬司,_宵崎奏.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "セカイ (instrumental)",
+      "artist": "星乃一歌、天馬司、宵崎奏、初音ミク",
+      "has_synced": true,
+      "path": "select/11_セカイ_(instrumental)_星乃一歌、天馬司、宵崎奏、初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セカイ",
+      "artist": "星乃一歌、天馬司、宵崎奏、初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_セカイ_星乃一歌、天馬司、宵崎奏、初音ミク.txt"
+    }
+  ]
+}
